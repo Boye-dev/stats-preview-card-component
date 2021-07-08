@@ -89,11 +89,13 @@ padding-bottom: 0;
       border-bottom-right-radius: 0;
 
   }
-/* .cont{
-  padding-right: 10%;
-  padding-left: 10%;
-} */
+.cont{
+margin-left: 3%;
+margin-right: 15%;
+margin-bottom: 5%;
+}
   .container{
+
 
 
     background-color: hsl(244, 38%, 16%);
